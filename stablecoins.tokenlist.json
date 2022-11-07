@@ -226,7 +226,7 @@
         "chainId": 56,
         "address": "0x55d398326f99059fF775485246999027B3197955",
         "symbol": "BSC-USD",
-        "name": "Binance-Peg BSC-USD (BSC-USD)",
+        "name": "Binance-Peg BSC-USD",
         "decimals": 18
       },
       {
