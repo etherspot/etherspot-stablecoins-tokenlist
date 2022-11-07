@@ -263,6 +263,27 @@
         "symbol": "USDC",
         "name": "USD//C on xDai",
         "decimals": 6
+      },
+      {
+        "chainId": 43114,
+        "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "symbol": "DAI.e",
+        "name": "DAI Stablecoin",
+        "decimals": 18
+      },
+      {
+        "chainId": 43114,
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6
+      },
+      {
+        "chainId": 43114,
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "symbol": "USDt",
+        "name": "TetherToken",
+        "decimals": 6
       }
     ]
 }
