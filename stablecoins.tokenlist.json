@@ -235,6 +235,34 @@
         "symbol": "BUSD",
         "name": "Binance-Peg BUSD Token",
         "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "symbol": "DAI",
+        "name": "DAI Stablecoin",
+        "decimals": 18
+      },
+      {
+        "chainId": 10,
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6
+      },
+      {
+        "chainId": 10,
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "symbol": "USDT",
+        "name": "Tether",
+        "decimals": 6
+      },
+      {
+        "chainId": 100,
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "symbol": "USDC",
+        "name": "USD//C on xDai",
+        "decimals": 6
       }
     ]
 }
