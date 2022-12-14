@@ -84,13 +84,6 @@
       },
       {
         "chainId": 1,
-        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
-        "decimals": 8
-      },
-      {
-        "chainId": 1,
         "address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
         "symbol": "USDS",
         "name": "StableUSD",
