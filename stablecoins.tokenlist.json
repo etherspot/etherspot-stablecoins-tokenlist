@@ -1,13 +1,13 @@
 {
     "name": "Etherspot Stablecoin Tokenlist",
-    "timestamp": "2022-09-18T12:00:00+00:00",
+    "timestamp": "2023-02-27T12:00:00+00:00",
     "keywords": [
       "etherspot",
       "tokenlist",
       "stable coin"
     ],
     "version": {
-      "major": 1,
+      "major": 2,
       "minor": 0,
       "patch": 0
     },
@@ -16,267 +16,314 @@
         "chainId": 1,
         "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "symbol": "USDT",
-        "name": "Tether",
-        "decimals": 6
+        "name": "USDT",
+        "decimals": 6,
+        "logoURI": "https://etherscan.io/token/images/tether_32.png"
       },
       {
         "chainId": 1,
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "symbol": "DAI",
         "name": "DAI Stablecoin",
-        "decimals": 18
-      },
-      {
-        "chainId": 1,
-        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "symbol": "DAI",
-        "name": "DAI Stablecoin",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
       },
       {
         "chainId": 1,
         "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
         "symbol": "SAI",
-        "name": "Single Collateral DAI",
-        "decimals": 18
+        "name": "SAI",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/dai_stablecoin.png"
       },
       {
         "chainId": 1,
         "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
         "symbol": "DGX",
         "name": "Digix Gold Token",
-        "decimals": 9
+        "decimals": 9,
+        "logoURI": "https://etherscan.io/token/images/digix_dgx_28.png"
       },
       {
         "chainId": 1,
         "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
         "symbol": "sUSD",
         "name": "sUSD",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/images/main/empty-token.png"
       },
       {
         "chainId": 1,
         "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
         "symbol": "EURS",
         "name": "STASIS EURO",
-        "decimals": 2
+        "decimals": 2,
+        "logoURI": "https://etherscan.io/token/images/statiseuro_28.png"
       },
       {
         "chainId": 1,
         "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
         "symbol": "GUSD",
         "name": "Gemini dollar",
-        "decimals": 2
+        "decimals": 2,
+        "logoURI": "https://etherscan.io/token/images/gemini_28.png"
       },
       {
         "chainId": 1,
         "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
         "symbol": "PAX",
-        "name": "Paxos Standard",
-        "decimals": 18
+        "name": "Pax Dollar",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/paxos-usdp_32.png"
       },
       {
         "chainId": 1,
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
       },
       {
         "chainId": 1,
         "address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
         "symbol": "USDS",
         "name": "StableUSD",
-        "decimals": 6
+        "decimals": 6,
+        "logoURI": "https://etherscan.io/token/images/stableusd_32.png"
       },
       {
         "chainId": 1,
         "address": "0x10c71515602429C19d53011EA7040B87a4894838",
         "symbol": "DPT",
-        "name": "Diamond Platform Token",
-        "decimals": 18
-      },
-      {
-        "chainId": 1,
-        "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
-        "symbol": "RSR",
-        "name": "Reserve Rights",
-        "decimals": 18
+        "name": "DPT",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/cdiamondcoin_28.png"
       },
       {
         "chainId": 1,
         "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
         "symbol": "USDQ",
         "name": "USDQ",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/usdqtoken_28.png"
       },
       {
         "chainId": 1,
         "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
         "symbol": "USDK",
         "name": "USDK",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/usdk_32.png"
       },
       {
         "chainId": 1,
         "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
         "symbol": "XCHF",
         "name": "CryptoFranc",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/XCHF_28.png"
       },
       {
         "chainId": 1,
         "address": "0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE",
         "symbol": "xEUR",
         "name": "xEURO",
-        "decimals": 0
+        "decimals": 0,
+        "logoURI": "https://etherscan.io/token/images/xeuro_32.png"
       },
       {
         "chainId": 1,
         "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
         "symbol": "HUSD",
         "name": "HUSD",
-        "decimals": 8
+        "decimals": 8,
+        "logoURI": "https://etherscan.io/token/images/husd_32.png"
       },
       {
         "chainId": 1,
         "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
         "symbol": "sUSD",
         "name": "Synth sUSD",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/SynthetixsUSD_32.png"
       },
       {
         "chainId": 1,
         "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
         "symbol": "FRAX",
         "name": "Frax",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/fraxethcanonical_32.png"
+
       },
       {
         "chainId": 1,
         "address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
         "symbol": "DOLA",
         "name": "Dola USD Stablecoin",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/inversedola_32.png"
       },
       {
         "chainId": 1,
         "address": "0x8CB24ed2e4f7e2065f4eB2bE5f6B0064B1919850",
         "symbol": "ZARP",
         "name": "Zarp Stablecoin",
-        "decimals": 18
-      },
-      {
-        "chainId": 1,
-        "address": "0x8CB24ed2e4f7e2065f4eB2bE5f6B0064B1919850",
-        "symbol": "FEI",
-        "name": "Fei USD",
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/zarpcash2_32.png"
       },
       {
         "chainId": 1,
         "address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
         "symbol": "USDD",
-        "name": "Decentralized USD",
-        "decimals": 18
+        "name": "USDD",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/usdd-tron_32.png"
       },
       {
         "chainId": 137,
         "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
         "symbol": "DAI",
-        "name": "DAI Stablecoin",
-        "decimals": 18
+        "name": "DAI",
+        "decimals": 18,
+        "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
       },
       {
         "chainId": 137,
         "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
         "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
       },
       {
         "chainId": 137,
         "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         "symbol": "USDT",
-        "name": "Tether",
-        "decimals": 6
+        "name": "USDT",
+        "decimals": 6,
+        "logoURI": "https://polygonscan.com/token/images/tether_32.png"
       },
       {
         "chainId": 56,
         "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
         "symbol": "DAI",
-        "name": "Binance-Peg Dai Token",
-        "decimals": 18
+        "name": "DAI",
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/dai_32.png"
       },
       {
         "chainId": 56,
         "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         "symbol": "USDC",
-        "name": "Binance-Peg USD Coin",
-        "decimals": 18
+        "name": "USDC",
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
       },
       {
         "chainId": 56,
         "address": "0x55d398326f99059fF775485246999027B3197955",
         "symbol": "BSC-USD",
-        "name": "Binance-Peg BSC-USD",
-        "decimals": 18
+        "name": "BSC-USD",
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
       },
       {
         "chainId": 56,
         "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "symbol": "BUSD",
-        "name": "Binance-Peg BUSD Token",
-        "decimals": 18
+        "name": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
       },
       {
         "chainId": 10,
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "symbol": "DAI",
-        "name": "DAI Stablecoin",
-        "decimals": 18
+        "name": "DAI",
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
       },
       {
         "chainId": 10,
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
       },
       {
         "chainId": 10,
         "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
         "symbol": "USDT",
-        "name": "Tether",
-        "decimals": 6
+        "name": "USDT",
+        "decimals": 6,
+        "logoURI": "https://optimistic.etherscan.io/token/images/tether_32.png"
       },
       {
         "chainId": 100,
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
         "symbol": "USDC",
-        "name": "USD//C on xDai",
-        "decimals": 6
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://gnosisscan.io/token/images/usdcgno_32.png"
       },
       {
         "chainId": 43114,
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-        "symbol": "DAI.e",
-        "name": "DAI Stablecoin",
-        "decimals": 18
+        "symbol": "DAI",
+        "name": "DAI",
+        "decimals": 18,
+        "logoURI": "https://snowtrace.io/token/images/MCDDai_32.png"
       },
       {
         "chainId": 43114,
         "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
         "symbol": "USDC",
-        "name": "USD Coin",
-        "decimals": 6
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://snowtrace.io/token/images/usdc_32.png"
       },
       {
         "chainId": 43114,
-        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
-        "symbol": "USDt",
-        "name": "TetherToken",
-        "decimals": 6
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "symbol": "USDT",
+        "name": "USDT",
+        "decimals": 6,
+        "logoURI": "https://snowtrace.io/token/images/tether_32.png"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "symbol": "USDC",
+        "name": "USDC",
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "symbol": "USDT",
+        "name": "USDT",
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "symbol": "DAI",
+        "name": "DAI",
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/frax_32.png"
       }
     ]
 }
