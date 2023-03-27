@@ -367,6 +367,30 @@
       "symbol": "LUSD",
       "decimals": 18,
       "logoURI": "https://tokens.1inch.io/0x5f98805a4e8be255a32880fdec7f6728c6568ba0.png"
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "name": "BOB",
+      "symbol": "BOB",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b-optimism.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "name": "BOB",
+      "symbol": "BOB",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b-optimism.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+      "name": "BOB",
+      "symbol": "BOB",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b-optimism.png"
+    } 
   ]
 }
